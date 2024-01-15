@@ -2,7 +2,7 @@
 const numero1 = 32;
 const numero2 = 24;
 const numero3 = 14;
-const numero4 = 89;
+// const numero4 = 89;
 const stringNumero = '1';
 
 console.log('é igual', numero4 == stringNumero);
@@ -39,3 +39,5 @@ switch(numero4){
     default:
         console.log('Número não encontrado');
 }
+
+
